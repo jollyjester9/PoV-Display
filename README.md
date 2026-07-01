@@ -19,9 +19,9 @@ ESP32 powered PoV Display
 
 This project aims to Create a rotating word display using an array of eight LEDs Powered by an ESP32 microcontroller.
 
-### Components/ Parts List
+## Components/ Parts List
 
-#### Off the shelf:
+### Off the shelf:
 - ESP32 Dev Board
 - RS-775 Motor
 - PWM Dimmer
@@ -30,14 +30,14 @@ This project aims to Create a rotating word display using an array of eight LEDs
 - M4*12 screws x 4
 - M3*4 screws x 4
 
-#### Custom
+### Custom
 - Motor Mount
 - Motor Adapter
 - ESP Mount
 - Rotating Disk
 - Stationary Disk
 
-### Built With
+## Built With
 
 - [Arduino IDE](https://www.arduino.cc/en/software/)
 - [Fusion](https://www.autodesk.com/products/fusion-360/overview)
