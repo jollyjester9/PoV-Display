@@ -13,7 +13,7 @@ ESP32 powered PoV Display
 </p>
 </div>
 
-![Product Screenshot](Images/Img_Rotating_Disk.jpeg)
+![PoV Display](Images/PoV_Display.png)
 
 ## About The Project
 
@@ -26,6 +26,7 @@ This project aims to Create a rotating word display using an array of eight LEDs
 
 - [Arduino IDE](https://www.arduino.cc/en/software/)
 - [Fusion](https://www.autodesk.com/products/fusion-360/overview)
+
 ## Getting Started
 
 The assembly consists of two disks, one stationary and one rotating. Two Neodymium magnets are placed on the stationary disk, 144 degrees apart, which acts as the trigger angle and sets the output window size. The magnets are placed with opposite poles facing outward. A bipolar hall effect latch is used to detect the alternating magnetic field and enable/ disable the LED array as well as calculate disk RPM.
@@ -43,6 +44,8 @@ To change window size:
    #define ACTIVE_FRAC 0.4f
    ``` 
 
+The Rotating disk is spun using an RS-775 motor, a PWM dimmer is used to control motor RPM
+![Motor](Images/PoV_Display.png)
 
 
 In [Encoding.xlsx](https://github.com/jollyjester9/PoV-Display/blob/main/Encoding.xlsx), each character takes 5 columns so by default, a four character expression is supported with 1 column acting as spacing between characters.
