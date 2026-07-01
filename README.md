@@ -49,9 +49,9 @@ The assembly consists of two disks, one stationary and one rotating. Two Neodymi
 The rotating disk is divided into 60 columns which gives, the columns available for display are:
 
 
-
+$$ $$
 $${144 \over 360} \times 60 = 24$$
-
+$$ $$
 
 
 The Rotating disk is spun using an RS-775 motor, a PWM dimmer is used to control motor RPM;
