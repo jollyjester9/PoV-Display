@@ -1,9 +1,9 @@
 
 <br/>
-<div align="center">
+
 
 <h3 align="center">Persistence of Vision Display</h3>
-<p align="center">
+
 ESP32 powered Persistence of Vision Display
 
 
