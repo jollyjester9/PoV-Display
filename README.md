@@ -50,8 +50,10 @@ The rotating disk is divided into 60 columns which gives, the columns available 
 
 $${144 \over 360} \times 60 = 24$$
 
+
 The Rotating disk is spun using an RS-775 motor, a PWM dimmer is used to control motor RPM;
 ![Motor](Images/Motor_and_PWM.jpeg)
+
 
 ## Code overview
 
