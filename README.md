@@ -13,7 +13,7 @@ ESP32 powered PoV Display
 </p>
 </div>
 
-![PoV Display](Images/Motor_and_PWM.jpeg)
+![PoV Display](Images/PoV_Display.png)
 
 ## About The Project
 
@@ -21,7 +21,7 @@ This project aims to Create a rotating word display using an array of eight LEDs
 
 ### Components/ Parts List
 
-## Off the shelf:
+Off the shelf:
 - ESP32 Dev Board
 - RS-775 Motor
 - PWM Dimmer
@@ -30,7 +30,7 @@ This project aims to Create a rotating word display using an array of eight LEDs
 - M4*12 screws x 4
 - M3*4 screws x 4
 
-## Custom
+Custom
 - Motor Mount
 - Motor Adapter
 - ESP Mount
