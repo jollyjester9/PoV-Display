@@ -13,9 +13,9 @@ ESP32 powered PoV Display
 </p>
 </div>
 
-## About The Project
-
 ![Product Screenshot](Images/Img_Rotating_Disk.jpeg)
+
+## About The Project
 
 This project aims to Create a rotating word display using an array of eight LEDs Powered by an ESP32 microcontroller.
 
