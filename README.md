@@ -29,6 +29,10 @@ This project aims to Create a rotating word display using an array of eight LEDs
 - 4.8 Volt Lithium Battery
 - M4*12 screws x 4
 - M3*4 screws x 4
+- SS41F Hall Effect Sensor
+- 5mm LEDs (Red) x 8
+- 330 ohm resistor x 8
+- 10 kilo ohm resistor x 1
 
 ### Custom:
 - Motor Mount
@@ -46,7 +50,7 @@ This project aims to Create a rotating word display using an array of eight LEDs
 
 The assembly consists of two disks, one stationary and one rotating. Two Neodymium magnets are placed on the stationary disk, 144 degrees apart, which acts as the trigger angle and sets the output window size. The magnets are placed with opposite poles facing outward. A bipolar hall effect latch is used to detect the alternating magnetic field and enable/ disable the LED array as well as calculate disk RPM.
 
-The rotating disk is divided into 60 columns which gives, the columns available for display are:
+The rotating disk is divided into 60 columns which gives, the number of columns available for display are:
 
 
 $${144 \over 360} \times 60 = 24$$
