@@ -58,6 +58,9 @@ The assembly consists of two disks, one stationary and one rotating. Two Neodymi
 
 ![Rotating_Disk](Images/Img_Rotating_Disk.jpeg)
 
+### Rotating Disk (Backside):
+
+![Rotating_Disk](Images/Img_Rotating_Disk_Back.jpeg)
 
 The rotating disk is divided into 60 columns which gives, the number of columns available for display are:
 
