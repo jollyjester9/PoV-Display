@@ -32,7 +32,7 @@ The assembly consists of two disks, one stationary and one rotating. Two Neodymi
 
 The rotating disk is divided into 60 columns which gives,
 
-$$ {144 \over 360} = 24 $$
+$$ {144 \over 360} ]\times 60 = 24 $$
 
 columns available for display. This can be changed by editing:
 ```sh
