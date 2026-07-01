@@ -1,7 +1,9 @@
 
 <br/>
-Persistence of Vision Display</h3>
-<br/>
+<div align="left">
+
+<h3 align="left">Persistence of Vision Display</h3>
+<p align="left">
 ESP32 powered Persistence of Vision Display
 
 
@@ -30,7 +32,7 @@ The assembly consists of two disks, one stationary and one rotating. Two Neodymi
 
 The rotating disk is divided into 60 columns which gives,
 
-$$ {144 \over 360} ]\times 60 = 24 $$
+$$ {144 \over 360} \times 60 = 24 $$
 
 columns available for display. This can be changed by editing:
 ```sh
@@ -50,7 +52,7 @@ The characters are stored as hex values, for example, 'V' is stored as;
    const uint8_t CHAR_V[5] = {0x07, 0x38, 0xC0, 0x38, 0x07};
    ```
 
-The 
+The code iterates through all 24 columns, updates the current columns and outputs the corresponding 8 bit value to the LEDs
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
