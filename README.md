@@ -1,9 +1,6 @@
 
 <br/>
-
-
-<h3 align="center">Persistence of Vision Display</h3>
-
+Persistence of Vision Display</h3>
 ESP32 powered Persistence of Vision Display
 
 
