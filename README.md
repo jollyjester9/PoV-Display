@@ -21,7 +21,7 @@ This project aims to Create a rotating word display using an array of eight LEDs
 
 ### Components/ Parts List
 
-Off the shelf:
+#### Off the shelf:
 - ESP32 Dev Board
 - RS-775 Motor
 - PWM Dimmer
@@ -30,7 +30,7 @@ Off the shelf:
 - M4*12 screws x 4
 - M3*4 screws x 4
 
-Custom
+#### Custom
 - Motor Mount
 - Motor Adapter
 - ESP Mount
@@ -50,7 +50,7 @@ The rotating disk is divided into 60 columns which gives,
 
 $$ {144 \over 360} \times 60 = 24 $$ 
 
-The Rotating disk is spun using an RS-775 motor, a PWM dimmer is used to control motor RPM
+The Rotating disk is spun using an RS-775 motor, a PWM dimmer is used to control motor RPM;
 ![Motor](Images/Motor_and_PWM.jpeg)
 
 ## Code overview
