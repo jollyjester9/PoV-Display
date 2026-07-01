@@ -50,11 +50,11 @@ This project aims to Create a rotating word display using an array of eight LEDs
 
 The assembly consists of two disks, one stationary and one rotating. Two Neodymium magnets are placed on the stationary disk, 144 degrees apart, which acts as the trigger angle and sets the output window size. The magnets are placed with opposite poles facing outward. A bipolar hall effect latch is used to detect the alternating magnetic field and enable/ disable the LED array as well as calculate disk RPM.
 
-####Stationary Disk:
+###Stationary Disk:
 
 ![Stationary_Disk](Images/Img_Stationary_Disk.jpeg)
 
-####Rotating Disk:
+###Rotating Disk:
 
 ![Rotating_Disk](Images/Img_Rotating_Disk.jpeg)
 
