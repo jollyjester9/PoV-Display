@@ -2,7 +2,7 @@
 <br/>
 <div align="left">
 
-<h3 align="left">Peristance of Vision Display</h3>
+<h2 align="left">Peristance of Vision Display</h2>
 <p align="left">
 ESP32 powered PoV Display
 
