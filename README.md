@@ -49,9 +49,7 @@ The assembly consists of two disks, one stationary and one rotating. Two Neodymi
 The rotating disk is divided into 60 columns which gives, the columns available for display are:
 
 
-$$ $$
 $${144 \over 360} \times 60 = 24$$
-$$ $$
 
 
 The Rotating disk is spun using an RS-775 motor, a PWM dimmer is used to control motor RPM;
@@ -77,22 +75,3 @@ The characters are stored as hex values, for example, 'V' is stored as;
    ```
 
 The code iterates through all 24 columns, updates the current columns and outputs the corresponding 8 bit value to the LEDs
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-
-- [makeread.me](https://github.com/ShaanCoding/ReadME-Generator)
-- [othneildrew](https://github.com/othneildrew/Best-README-Template)
