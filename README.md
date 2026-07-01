@@ -53,8 +53,10 @@ The assembly consists of two disks, one stationary and one rotating. Two Neodymi
 
 
 The rotating disk is divided into 60 columns which gives, the number of columns available for display are:
-![Stationary_Disk](Img_Stationary_Disk.jpeg)
-![Rotating_Disk](Img_Rotating_Disk.jpeg)
+####Stationary Disk:
+![Stationary_Disk](Images/Img_Stationary_Disk.jpeg)
+####Rotating Disk:
+![Rotating_Disk](Images/Img_Rotating_Disk.jpeg)
 
 $${144 \over 360} \times 60 = 24$$
 
