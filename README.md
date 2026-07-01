@@ -1,6 +1,7 @@
 
 <br/>
 Persistence of Vision Display</h3>
+<br/>
 ESP32 powered Persistence of Vision Display
 
 
