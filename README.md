@@ -46,10 +46,9 @@ This project aims to Create a rotating word display using an array of eight LEDs
 
 The assembly consists of two disks, one stationary and one rotating. Two Neodymium magnets are placed on the stationary disk, 144 degrees apart, which acts as the trigger angle and sets the output window size. The magnets are placed with opposite poles facing outward. A bipolar hall effect latch is used to detect the alternating magnetic field and enable/ disable the LED array as well as calculate disk RPM.
 
-The rotating disk is divided into 60 columns which gives,
+The rotating disk is divided into 60 columns which gives, the columns available for display are:
 
 $${144 \over 360} \times 60 = 24$$
-columns.
 
 The Rotating disk is spun using an RS-775 motor, a PWM dimmer is used to control motor RPM;
 ![Motor](Images/Motor_and_PWM.jpeg)
